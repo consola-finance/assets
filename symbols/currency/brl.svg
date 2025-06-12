@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip0_2327_136">
+      <rect width="512" height="512" fill="white"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0_2327_136)">
+    <circle cx="256" cy="256" r="256" fill="#2D2E31"/>
+    <text
+      x="50%"
+      y="55%"
+      text-anchor="middle"
+      dominant-baseline="middle"
+      fill="white"
+      font-family="Arial, sans-serif"
+      font-weight="bold"
+      font-size="300"
+    >R$</text>
+  </g>
+</svg>
